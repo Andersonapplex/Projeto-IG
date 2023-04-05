@@ -1,0 +1,35 @@
+body nav a{
+    color: #FF4081;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 60px;
+    width: 216px;
+    height: 20.27px;
+    text-decoration: none;
+    border: 2px #FF4081 solid;
+    border-radius: 62px;
+    padding: 10px 20px;
+    
+
+}
+
+header a{
+    color: #FF4081;
+    line-height: 100px;
+    text-decoration: none;
+    
+}
+
+body{
+  text-align: center;
+}
+
+*{
+    background-image: url(./pexels-miguel-á-padriñán-255379.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
